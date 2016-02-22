@@ -46,6 +46,15 @@ Se você é aluno da UFF, sabe programar, já estudou banco de dados e estrutura
 
 O primeiro passo é cadastrar o seu currículo no nosso [banco de talentos](http://www.sti.uff.br/trabalhe-na-sti).
 
+## Diferenciais
+
+* Experiência profissional anterior
+* Conhecimento em Ruby ou Java e seus frameworks
+* HTML/CSS/JavaScript
+* TDD
+* Git
+* Linux básico
+
 ## Dúvidas frequentes
 
 **Tenho que saber Ruby ou Java para aplicar para o processo seletivo?**
