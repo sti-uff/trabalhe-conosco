@@ -8,7 +8,7 @@ e técnicos-administrativos.
 
 ## O que nos move?
 
-Nossa equipe é composta por pessoas capacitadas e desejo por *inovação*, pessoas que acordam motivadas a resolver um 
+Nossa equipe é composta por pessoas capacitadas e com desejo de *inovação*, pessoas que acordam motivadas a resolver um 
 problema de forma rápida e eficiente, que acreditam que existe a [tecnologia certa](https://en.wikipedia.org/wiki/No_Silver_Bullet) 
 para cada tipo de problema e odeiam [POG](https://pt.wikipedia.org/wiki/Gambiarra#Gambiarra_na_Programa.C3.A7.C3.A3o_de_Computadores)!
 
@@ -32,7 +32,7 @@ Nosso stack é composto das mais novas tecnologias e boas práticas utilizadas n
 ## O que esperamos de você?
 
 Esperamos que você tenha o desejo de aprender cada dia mais, que seja responsável com o trabalho e com as suas entregas, 
-que saiba trabalhar em equipe e que saiba se comportar corretamente no ambiente de trabalho.
+que saiba trabalhar em equipe e que tenha perfil comportamental adequado.
 
 Tem uma idéia melhor de fazer algo que nós já fazemos? Ótimo, estamos abertos a discussões e podemos acatar a sua solução
 caso você possa nos convencer :)
