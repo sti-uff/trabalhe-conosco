@@ -27,6 +27,7 @@ Nosso stack é composto das mais novas tecnologias e boas práticas utilizadas n
 * RabbitMQ, Redis, Memcached
 * Jenkins CI
 * Linux (Ubuntu, CentOS)
+* Docker
 * Apache, nginx, JBoss, Jetty, Tomcat
 
 ## O que esperamos de você?
