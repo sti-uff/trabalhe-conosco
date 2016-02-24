@@ -59,11 +59,13 @@ Exemplo de uso da API do OpenStreetMap: http://nominatim.openstreetmap.org/searc
 O software pode ser entregue na forma de script ou pode ser uma aplicação web e pode ser feito em qualquer linguagem. 
 Opte pela que você tem maior domínio e que solucione o problema de forma mais simples.
 
+```bash
 Para resolver esse problema, você vai precisar:
 1) Realizar uma requisição HTTP para as APIs
 2) Realizar parse do JSON retornado pelas APIs
 3) Calcular a distância entre dois pontos no mapa (existe uma equação pra isso!)
 4) Verificar dentre as estações, qual está mais próxima do endereço passado
+```
 
 Será um *plus* caso você:
 
