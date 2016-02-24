@@ -28,9 +28,11 @@ criado, faça o mesmo para o SMS
  
  
 **Exemplo**
-*Digite sua matrícula:*
+```bash
+Digite sua matrícula:
 105457
-*Laura, por favor escolha uma das opções abaixo para o seu UFFMail*
+
+Laura, por favor escolha uma das opções abaixo para o seu UFFMail
 1 - laura_azevedo@id.uff.br
 2 - lauraac@id.uff.br
 3 - lauracunha@id.uff.br
@@ -39,9 +41,9 @@ criado, faça o mesmo para o SMS
 
 1
 
-*A criação de seu e-mail (laura_azevedo@id.uff.br) será feita nos próximos minutos.*
-*Um SMS foi enviado para 99999-9971 com a sua senha de acesso*
-
+A criação de seu e-mail (laura_azevedo@id.uff.br) será feita nos próximos minutos.
+Um SMS foi enviado para 99999-9971 com a sua senha de acesso.
+```
 ## Desafio 2
 
 Seu objetivo é, para um dado endereço, informar quais são os bicicletários (BikeRio) mais próximos em ordem decrescente 
