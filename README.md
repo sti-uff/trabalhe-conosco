@@ -20,7 +20,7 @@ Nosso stack é composto das mais novas tecnologias e boas práticas utilizadas n
  
 * Ruby, Java e PHP
 * Ruby on Rails, Spring MVC, AngularJS, jQuery
-* Test Driven Development (TDD), Behavior Driven Development (BDD)
+* Test-driven Development (TDD), Behavior-driven Development (BDD)
 * Android e iOS
 * Gitlab (CVS)
 * MySQL e Oracle
@@ -56,6 +56,12 @@ O primeiro passo é cadastrar o seu currículo no nosso [banco de talentos](http
 * Git
 * Linux básico
 
+## Desafio
+
+Para que possamos te ajudar a evoluir e entender melhor o seu momento, recomendamos que entre na página que contém os 
+desafios e escolha um deles pra resolver. A solução pode ser enviada por e-mail em um arquivo .zip ou então você pode nos enviar
+o link do seu github com a resolução!
+
 ## Dúvidas frequentes
 
 **Tenho que saber Ruby ou Java para aplicar para o processo seletivo?**
@@ -69,6 +75,15 @@ Sim. Saber HTML, CSS, JS é um diferencial, mas entendemos que a maioria dos alu
 **As vagas são exclusivas para alunos de Computação?**
 
 Não, se você é de outro curso e é *expert* em programação, também será bem-vindo :)
+
+**Se eu for mal no desafio, estarei eliminado do processo seletivo?**
+
+Não! O desafio serve para nos mostrar sua capacidade de resolver problemas, mas não é o único critério. Valorizamos pessoas
+com vontade de aprender e que estejam dispostas a estudar e evoluir a cada dia. Entendemos que a nota de uma
+prova ou um desafio não diz necessariamente que uma pessoa é boa ou ruim. Sua capacidade de adquirir conhecimento importa muito para nós.
+Muitos critérios são avaliados em conjunto, não se preocupe!
+
+Não conseguiu fazer o desafio? Traga suas dúvidas para a entrevista! :)
 
 **Não tenho nenhum tipo de vínculo com a universidade, posso aplicar?**
 
