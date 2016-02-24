@@ -62,7 +62,7 @@ Para que possamos te ajudar a evoluir e entender melhor o seu momento, recomenda
 desafios e escolha um deles pra resolver. A solução pode ser enviada por e-mail em um arquivo .zip ou então você pode nos enviar
 o link do seu github com a resolução!
 
-Clique aqui para escolher o [desafio](Desafio.md) que você irá resolver.
+Clique [aqui](Desafio.md) para escolher o desafio que você irá resolver.
 
 ## Dúvidas frequentes
 
