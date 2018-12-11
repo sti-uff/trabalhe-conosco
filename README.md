@@ -45,7 +45,7 @@ Tem vontade de aprender algo novo que seus colegas já sabem? Eles certamente te
 
 Se você é aluno da UFF, sabe programar, já estudou banco de dados e estruturas de dados, você pode aplicar!
 
-O primeiro passo é cadastrar o seu currículo no nosso [banco de talentos](http://www.sti.uff.br/trabalhe-na-sti).
+O primeiro passo é cadastrar o seu currículo no nosso [banco de talentos](https://app.uff.br/hrm/trabalhe_conosco).
 
 ## Diferenciais
 
@@ -64,7 +64,7 @@ o link do seu github com a resolução!
 
 Clique [aqui](Desafios.md) para escolher o desafio que você irá resolver.
 
-**Processo seletivo corrente: Os desafios devem ser enviados para marcoscortes@id.uff.br até 17/10/2017**
+**Processo seletivo corrente: Os desafios devem ser enviados para galves@id.uff.br até [a ser definido].**
 
 ## Dúvidas frequentes
 
