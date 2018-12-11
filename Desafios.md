@@ -1,7 +1,7 @@
 # Desafios
 
 Escolha um dos desafios abaixo e nos mande o link do seu github com a resolução. Fique à vontade para escolher
-qualquer um dos dois desafios, faça aquele que você vá conseguir fazer com mais qualidade.
+qualquer um dos três desafios, faça aquele que você vá conseguir fazer com mais qualidade.
 
 ## Desafio 1
 
