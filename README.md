@@ -3,7 +3,7 @@
 ## Quem somos nós?
 
 A STI superintendência responsável pelo desenvolvimento e manutenção de sistemas, sites, infraestrutura, telefonia e segurança de TI 
-da Universidade Federal Fluminense. Contamos hoje com cerca de 240 projetos e atendemos a cerca de 60k usuários, entre eles alunos, professores
+da Universidade Federal Fluminense. Contamos hoje com cerca de 250 projetos e atendemos a cerca de 60k usuários, entre eles alunos, professores
 e técnicos-administrativos.
 
 ## O que nos move?
@@ -19,12 +19,12 @@ Inovação, motivação e qualidade.
 Nosso stack é composto das mais novas tecnologias e boas práticas utilizadas no mercado:
  
 * Ruby, Java e PHP
-* Ruby on Rails, Spring MVC, AngularJS, jQuery
+* Ruby on Rails, Spring-boot, frameworks JS (AngularJS entre outros).
 * Test-driven Development (TDD), Behavior-driven Development (BDD)
 * Android e iOS
-* Gitlab (CVS)
+* Gitlab (Versionamento)
 * MySQL e Oracle
-* RabbitMQ, Redis, Memcached
+* RabbitMQ, Redis
 * Jenkins CI
 * Linux (Ubuntu, CentOS)
 * Docker
@@ -63,6 +63,8 @@ desafios e escolha um deles pra resolver. A solução pode ser enviada por e-mai
 o link do seu github com a resolução!
 
 Clique [aqui](Desafios.md) para escolher o desafio que você irá resolver.
+
+**Processo seletivo corrente: Os desafios devem ser enviados para marcoscortes@id.uff.br até 17/10/2017**
 
 ## Dúvidas frequentes
 
