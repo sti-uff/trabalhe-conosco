@@ -64,7 +64,7 @@ o link do seu github com a resolução!
 
 Clique [aqui](Desafios.md) para escolher o desafio que você irá resolver.
 
-**Processo seletivo corrente: Os desafios devem ser enviados para galves@id.uff.br até [a ser definido].**
+**Processo seletivo corrente: Os desafios devem ser enviados para galves@id.uff.br até 14/01/2019 23:59.**
 
 ## Dúvidas frequentes
 
